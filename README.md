@@ -12,7 +12,7 @@ com ela voce Pode programar cada parte ou codigo da sua Gamemoda individualmente
 Metodo de Modulaçao YSI_Includes(Utilizando y_hook), Diferente do Metodo ALS nao precisamos Fazer um "Gancho" na include a_samp, sendo mais facil de utilizar. 
 
 # Exemplo Simples De Organizaçao de Arquivos
-![Um Exemplo de Modulacao De Gamemode](../Imagens/Gamemodes1.png)
+![Um Exemplo de Modulacao De Gamemode](../Imagens/Gamemode1.png)
 Agora Vamos Pensar Sobre os tipos de Gamemodes (Modulada/Tradicional)
 
 # Gamemode Modulada/Tradicional
