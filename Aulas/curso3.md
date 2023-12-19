@@ -11,7 +11,7 @@ public OnGamemodeInit()
 
 Usamos a Função Public para chamar uma Função na YSI invés de Public usamos... hook, Exemplo
 ```c 
-public OnGamemodeInit()
+hook OnGamemodeInit()
 {
      print("olá Mundo!");
      return 1; 
