@@ -23,7 +23,7 @@ Caso Queira Aprender Outro Metodo de Modulacao Clique Aqui! [Metodo ALS](https:/
 Foi Criado Pela Equipe Actrixs Team[Nosso Discord](https://discord.gg/euXz6ycTUg)!
 
 # Vamos ao Cursinho
- [Arquivos Necessarios](../Metodo-Modula-ao-YSI_Includes/Instalacao/Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
+ [Arquivos Necessarios](../Metodo-Modulacao-YSI_Includes/Instalacao/Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
 # Créditos
 - [Nascimento](https://github.com/NascimentoSamp)
 - [Discord] nascimentobr641 - Caso Tenha Duvidas ou Precise de Ajuda.
