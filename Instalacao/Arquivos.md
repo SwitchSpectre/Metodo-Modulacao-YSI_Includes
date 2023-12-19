@@ -52,7 +52,7 @@ public OnFilterScriptExit()
 #else
 ```
 
-Essa Parte Sera Inutil Para Nos, Bom Apos Isso Vamos Entrar no Visual Studio Code
+Essa Parte Sera Inutil Para Nos
 
 # Visual Studio Code
 Caso Nunca Tenha Instalado Recomendo Procure um Tutorial No Youtube, Tambem Pode ser Utilizado Sublime Text.

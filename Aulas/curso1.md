@@ -1,6 +1,6 @@
 # Manipulacao Dos Modulos
 
-
+Bom Apos Isso Vamos Entrar no Visual Studio Code
 Abra a Gamemode no Visual Studio Code e Iremos apagar TODA a Gamemode.
 ![Gamemode E Includes Necessarias](../Imagens/Gamemode3.png)
 
