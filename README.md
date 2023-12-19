@@ -22,8 +22,8 @@ Agora Vamos Pensar Na Gamemode Tradicional, Digamos que eu queira editar respost
 Caso Queira Aprender Outro Metodo de Modulacao Clique Aqui! [Metodo ALS](https://github.com/PawnTeam/ALS-HOOK-s)!
 Foi Criado Pela Equipe Actrixs Team[Nosso Discord](https://discord.gg/euXz6ycTUg)!
 
-# Vamos ao Cursinho)
- [Introducao](Arquivos) Aqui Contem Todos Os Aqruivos Necessarios.
+# Vamos ao Cursinho
+ [Arquivos Necessarios](../Instalacao/Arquivos) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
 
 # Créditos
 - [Nascimento](https://github.com/NascimentoSamp)
