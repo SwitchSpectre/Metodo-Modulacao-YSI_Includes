@@ -13,8 +13,7 @@ Vamos criar o Modulo
 Defines.pwn (pra quem usa Vscode Sempre bom colocar .pwn para as extensões auxiliares e auto-completes Funcionarem.)
 Caso não use Vscode/SublimeText você pode definir o Tipo do Arquivo como quiser, (pwn, inc, txt, pogba, Brasil, etc...) Tanto faz o Tipo de Arquivo, (recomendo .pwn)
 
-Bom Vamos ao Módulo
-Modules/Core/Defines.pwn
+Bom Vamos criar o Modulo `Modules/Core/Defines.pwn`
 ![Modulo](../Imagens/Gamemode5.png)
 
 Vamos Criar mais um Modulo, Digamos que você irá começar seu Modulo De Comandos. Por tanto vamos Criar em System o Módulo Commands.pwn
@@ -47,7 +46,7 @@ Perceberam o Erro? Nao? Vou Te Mostrar! Vamos Continuar Vamos Criar Um Comando S
 Ainda Nao Perceberam? Vamos Compilar! Sempre Devemos Compilar a main.pwn se nao os Modulos dao erros, portanto sempre compile a main.pwn (Gamemode Principal)
 ![Erro De Hiererquia](../Imagens/Gamemode9.png)
 
-Pronto! Temos um erro de Hierarquia de Módulos, Nos Adicionamos a Definição Para a Coloração da Mensagem, e mesmo assim não o Compilador não Reconheceu nossa Define, Por que? Simples! Eu Chamei o Comando Primeiro que a Definição, Como assim? O Pawncc(Compilador) Ele ler de Cima Para Baixo, e nos Chamamos o Módulo `"Commands.pwn"` Primeiro que as Definições(Em Nosso Caso a Coloração) dele Agora Vamos imaginar os Módulos, Login.pwn, Commands.pwn, Admins.pwn, Inventário.pwn todos esses Módulos Teriam Defines, Variáveis, Stocks, Macros, que não seriam Chamados Primeiro que eles Por tanto daria Muitos e Muitos erros de Falta de Definição Pois o Pawncc não iria Reconhecer essas Variáveis, Defines, etc...
+Pronto! Temos um erro de Hierarquia de Módulos, Nos Adicionamos a Definição Para a Coloração da Mensagem, e mesmo assim não o Compilador não Reconheceu nossa Define, Por que? Simples! Eu Chamei o Comando Primeiro que a Definição, Como assim? O Pawncc(Compilador) Ele ler de Cima Para Baixo, e nos Chamamos o Módulo `"Commands.pwn"` Primeiro que as Definições(Em Nosso Caso a Coloração) Agora Vamos imaginar os Módulos, Login.pwn, Commands.pwn, Admins.pwn, Inventário.pwn todos esses Módulos Teriam Defines, Variáveis, Stocks, Macros, que não seriam Chamados Primeiro que eles Por tanto daria Muitos e Muitos erros de Falta de Definição Pois o Pawncc não iria Reconhecer essas Variáveis, Defines, etc...
 
 # Como Fazer Hierarquia da Maneira Certa
 
