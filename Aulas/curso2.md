@@ -63,8 +63,10 @@ Sim Muito Simples!.
 # Importante!
 
 Devemos Adicionar a nossa Gamemode Principal a pragma 239 Algumas Includes nao se comportam muito bem com a modulacao por tanto dao essa warning mais podemos resolver apenas usando esse codigo, Caso nenhuma das suas includes deem esse warning nao e necessario!
-´´´c
+
+```c
 #pragma warning disable 239
 ```
+
 Vamos Para Proxima Aula
 [Manipulacao De Callbacks](../Aulas/curso3.md)
