@@ -62,4 +62,4 @@ Caso Nunca Tenha Instalado Recomendo Procure um Tutorial No Youtube, Tambem Pode
 baixe a Biblioteca de Includes YSI e pegue a pasta YSI_Includes e coloque na pasta da sua Gamemode em `pawno`
 
 Vamos Para Proxima Aula!
-[Manipulacao Dos Modulos](../Aulas/curso1.md)
+[Manipulacao Dos Modulos](./Aulas/curso1.md)
