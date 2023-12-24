@@ -1,4 +1,4 @@
-# Ola Tudo Bem?
+# Ola, Tudo Bem?
 Me Chamo Nascimento Sou Atualmente Programador Iniciante `Pawn`, Programo Gamemodes Samp(San Andreas Multiplayer)
 Tenho Conhecimento Em Mapeaçao/Texturizacao Estou Iniciando Na Modelagem 3D,
 Estou Criando Esse Repositorio para Explicar e Mostrar para as pessoas sobre a Vantagem De Criar/Ter Uma Gamemode Modulada
