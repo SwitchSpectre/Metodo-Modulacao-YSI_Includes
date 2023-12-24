@@ -1,4 +1,4 @@
-# Ola Tudo Bem?
+# Ola, Tudo Bem?
 Me Chamo Nascimento Sou Atualmente Programador Iniciante `Pawn`, Programo Gamemodes Samp(San Andreas Multiplayer)
 Tenho Conhecimento Em Mapeaçao/Texturizacao Estou Iniciando Na Modelagem 3D,
 Estou Criando Esse Repositorio para Explicar e Mostrar para as pessoas sobre a Vantagem De Criar/Ter Uma Gamemode Modulada
@@ -23,7 +23,7 @@ Caso Queira Aprender Outro Metodo de Modulacao Clique Aqui! [Metodo ALS](https:/
 Foi Criado Pela Equipe Actrixs Team [Nosso Discord](https://discord.gg/euXz6ycTUg)!
 
 # Vamos ao Cursinho
- [Arquivos Necessarios](../Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
+ [Arquivos Necessarios](./Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
  Caso Nao Funcione pode acessar manualmente ao arquivo.md
 # Créditos
 - [Nascimento](https://github.com/NascimentoSamp)
