@@ -27,4 +27,4 @@ Foi Criado Pela Equipe Actrixs Team [Nosso Discord](https://discord.gg/euXz6ycTU
  Caso Nao Funcione pode acessar manualmente ao arquivo.md
 # Créditos
 - [Nascimento](https://github.com/NascimentoSamp)
-- [Discord] nascimentobr641 - Caso Tenha Duvidas ou Precise de Ajuda.
+- Meu Discord [nascimentobr641](https://discord.com/users/936445788433838110)
