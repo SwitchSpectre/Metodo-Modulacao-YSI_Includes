@@ -23,7 +23,7 @@ Sempre bom utilizar a versao mais atualizada do Plugin/include
 
 # Iniciando Sua Gamemode
 Apos Baixar Os Arquivos Da Gamemode, Crie Uma Nova Gamemode
-![Nova Gamemode](../Imagens/Gamemode2.png)
+![Nova Gamemode](./Imagens/Gamemode2.png)
 
 Apos Voce Criar Uma Nova Gamemode Ela Estara Definida Como um FS(Filterscript) Por Tanto Devemos Apagar Toda essa Parte;
 
