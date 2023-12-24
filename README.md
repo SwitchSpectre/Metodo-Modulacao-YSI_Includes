@@ -18,10 +18,6 @@ Agora Vamos Pensar Na Gamemode Tradicional, Digamos que eu queira editar respost
 
 (Em Uma Gamemode Modulada) Agora Digamos que eu queira ir atras de Uma TextDraw(Inventario) entao eu irei acessar `(System/inventory.pww)` e tera tudo sobre o inventario, voce nao ira se preocupar em errar a dialog ou a TextDraw Agora Vamos Entender Mais Sobre a Modulacao `y_hook`.
 
-# Metodo ALS
-Caso Queira Aprender Outro Metodo de Modulacao Clique Aqui! [Metodo ALS](https://github.com/PawnTeam/ALS-HOOK-s)!
-Foi Criado Pela Equipe Actrixs Team [Nosso Discord](https://discord.gg/euXz6ycTUg)!
-
 # Vamos ao Cursinho
  [Arquivos Necessarios](./Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
  Caso Nao Funcione pode acessar manualmente ao arquivo.md
