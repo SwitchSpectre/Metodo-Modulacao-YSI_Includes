@@ -19,5 +19,6 @@ hook OnGamemodeInit()
 ```
 Não Temos Limites de Publics, Limites de Linhas nada! você e livre pra fazer oque quiser com os Módulos, e na Main poderá fazer oque quiser também, se quiser adicionar algo a Ela, Também e Possível nada te impede! 
 
-Bom Acabamos 🙂 
-Caso Dúvidas Contate meu Discord que Está no Início do Repositório.
+
+[Manipulacao de callback com carecteres maiores que 31!](../Aulas/curso4.md)
+
