@@ -10,12 +10,12 @@ Sim, Deixaremos Apenas as Includes
 #include <a_samp> //OBRIGATORIO
 #include <sscanf2> //OBRIGATORIO
 #include <streamer> //OBRIGATORIO
-#include <a_sampdb> //Preferencia Minha
+#include <a_sampdb> //Preferencia Minha[SQLite Meu Banco De Dados que custumo usar]
 #include <zcmd> //Preferencia Minha [use seu procesador de comando de preferencia]
 #include <EasyDialog> //Preferencia Minha
-#include "..\YSI-Includes\YSI_Core\y_utils" // OBRIGATORIO
-#include "..\YSI-Includes\YSI_Server\y_thirdpartyinclude" //OBRIGATORIO
-#include "..\YSI-Includes\YSI_Coding\y_cgen" //OBRIGATORIO
+#include "..\YSI-Includes\YSI_Core\y_utils" // Preferencia Minha
+#include "..\YSI-Includes\YSI_Server\y_thirdpartyinclude" //Preferencia Minha
+#include "..\YSI-Includes\YSI_Coding\y_cgen" //Preferencia Minha
 #include "..\YSI-Includes\YSI_Coding\y_hooks" //OBRIGATORIO
 ```
 

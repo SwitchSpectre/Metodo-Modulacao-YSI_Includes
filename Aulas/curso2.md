@@ -64,7 +64,7 @@ Sim Muito Simples!.
 Devemos Adicionar a nossa Gamemode Principal a pragma 239 Algumas Includes nao se comportam muito bem com a modulacao por tanto dao essa warning mais podemos resolver apenas usando esse codigo, Caso nenhuma das suas includes deem esse warning nao e necessario!
 
 ```c
-#pragma disable warning 239
+#pragma disable warning 239  // NAO RECOMENDO USO DELES!
 ```
 
 Vamos Para Proxima Aula

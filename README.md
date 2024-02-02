@@ -22,5 +22,5 @@ Agora Vamos Pensar Na Gamemode Tradicional, Digamos que eu queira editar respost
  [Arquivos Necessarios](./Arquivos.md) Aqui Contem Todos Os Arquivos Necessarios, Comece Por Aqui!.
  Caso Nao Funcione pode acessar manualmente ao arquivo.md
 # Créditos
-- [Nascimento](https://github.com/NascimentoSamp)
-- Meu Discord [nascimentobr641](https://discord.com/users/936445788433838110)
+- [NascimentoBr](https://github.com/NascimentoSamp)
+- Meu Discord [switchspectre](https://discord.com/users/1198753327937237032)
