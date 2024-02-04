@@ -59,13 +59,6 @@ Lindo Nao? Organizado Limpo, Entenderam? Como Funciona a Hierarquia? Bom Vamos V
 ![Gamemode Sem Erro De Hierarquia](../Imagens/Gamemode11.png)
 
 Sim Muito Simples!.
-# Importante!
-
-Devemos Adicionar a nossa Gamemode Principal a pragma 239 Algumas Includes nao se comportam muito bem com a modulacao por tanto dao essa warning mais podemos resolver apenas usando esse codigo, Caso nenhuma das suas includes deem esse warning nao e necessario!
-
-```c
-#pragma disable warning 239  // NAO RECOMENDO USO DELES!
-```
 
 Vamos Para Proxima Aula
 [Manipulacao De Callbacks](../Aulas/curso3.md)
