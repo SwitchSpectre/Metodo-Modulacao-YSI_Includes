@@ -2,7 +2,7 @@
 
 Bom Apos Isso Vamos Entrar no Visual Studio Code
 Abra a Gamemode no Visual Studio Code e Iremos apagar TODA a Gamemode.
-![Gamemode E Includes Necessarias](../Imagens/Gamemode3.png)
+[Includes Necessarias]
 
 Sim, Deixaremos Apenas as Includes 
 
@@ -13,9 +13,6 @@ Sim, Deixaremos Apenas as Includes
 #include <a_sampdb> //Preferencia Minha[SQLite Meu Banco De Dados que custumo usar]
 #include <zcmd> //Preferencia Minha [use seu procesador de comando de preferencia]
 #include <EasyDialog> //Preferencia Minha
-#include "..\YSI-Includes\YSI_Core\y_utils" // Preferencia Minha
-#include "..\YSI-Includes\YSI_Server\y_thirdpartyinclude" //Preferencia Minha
-#include "..\YSI-Includes\YSI_Coding\y_cgen" //Preferencia Minha
 #include "..\YSI-Includes\YSI_Coding\y_hooks" //OBRIGATORIO
 ```
 

@@ -22,7 +22,7 @@ Por tanto uma callback que poderia ser escrita assim:
 ```c
  hook OnPlayerEnterRaceCheckpoint() // off parametros 
  {
-    return 1;
+    return true;
  }
  ```
           
@@ -32,7 +32,7 @@ Por tanto uma callback que poderia ser escrita assim:
  ```c
  hook OnPlayerEnterRaceCP() // off parametros 
  {
-    return 1;
+    return true;
  }
  ```
 
