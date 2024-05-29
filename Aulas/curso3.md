@@ -5,7 +5,7 @@ Agora Vamos entender sobre a Manipulação de Callbacks diferente da ALS não pr
 public OnGameModeInit()
 {
      print("olá Mundo!");
-     return true; 
+     return 1; 
 }
 ```
 
@@ -14,7 +14,7 @@ Usamos a Função Public para chamar uma Função na YSI invés de Public usamos
 hook OnGameModeInit()
 {
      print("olá Mundo!");
-     return true; 
+     return 1; 
 }
 ```
 Não Temos Limites de Publics, Limites de Linhas nada! você e livre pra fazer oque quiser com os Módulos, e na Main poderá fazer oque quiser também, se quiser adicionar algo a Ela, Também e Possível nada te impede! 

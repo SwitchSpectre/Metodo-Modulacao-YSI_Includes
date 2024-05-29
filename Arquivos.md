@@ -42,12 +42,12 @@ public OnFilterScriptInit()
 	print("\n--------------------------------------");
 	print(" Blank Filterscript by your name here");
 	print("--------------------------------------\n");
-	return true;
+	return 1;
 }
 
 public OnFilterScriptExit()
 {
-	return true;
+	return 1;
 }
 
 #else

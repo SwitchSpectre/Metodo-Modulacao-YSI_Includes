@@ -22,7 +22,7 @@ Por tanto uma callback que poderia ser escrita assim:
 ```c
  hook OnPlayerEnterRaceCheckpoint() // off parametros 
  {
-    return true;
+    return 1;
  }
  ```
           
@@ -32,15 +32,10 @@ Por tanto uma callback que poderia ser escrita assim:
  ```c
  hook OnPlayerEnterRaceCP() // off parametros 
  {
-    return true;
+    return 1;
  }
  ```
 
  Assim evitamos o erro de maximo de carecteres! 
-
-
-
-Bom Acabamos 🙂 
-Caso Dúvidas Contate meu Discord que Está no Início do Repositório.
 
 
